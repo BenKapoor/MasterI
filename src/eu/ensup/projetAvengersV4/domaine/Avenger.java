@@ -7,7 +7,7 @@ public class Avenger {
 		private int age;
 		private String pouvoir;
 		
-		// Constructeur
+		// Constructeur de la classe Avenger.java
 		
 		public Avenger(String nom, String costume, int age, String pouvoir) {
 			super();
